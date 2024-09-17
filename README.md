@@ -1,4 +1,4 @@
-# Laboratorio 2: Criptografía y Seguridad Web
+# Laboratorio 2: Criptografía
 
 **Autor:** José Martín Berríos Piña  
 **Correo:** jose.berrios1@mail.udp.cl  
