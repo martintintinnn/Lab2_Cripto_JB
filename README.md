@@ -20,9 +20,7 @@
 7. [Métodos de Mitigación](#métodos-de-mitigación)
 8. [Conclusiones](#conclusiones)
 9. [Problemas Encontrados](#problemas-encontrados)
-10. [Referencias](#referencias)
 
 ## Descripción del Proyecto
 
 Este laboratorio se enfoca en el uso de diversas herramientas para realizar ataques de fuerza bruta y análisis de tráfico HTTP en la aplicación vulnerable DVWA (Damn Vulnerable Web Application). Se comparan los resultados de diferentes métodos y se proponen medidas de mitigación.
-
